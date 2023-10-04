@@ -1,6 +1,6 @@
-﻿// Lire le fichier d'entrée
-using SolutionKata;
+﻿using SolutionKata;
 
+// Lire le fichier d'entrée
 string[] lines = File.ReadAllLines("input.txt");
 
 // Parser les coordonnées de la pelouse
